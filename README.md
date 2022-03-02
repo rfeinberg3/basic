@@ -1,5 +1,3 @@
-Original App Design Project - README Template
-===
 
 # Crunch
 
@@ -33,10 +31,6 @@ Progress through increasingly difficult levels of bug smashing mayhem. "flys" wi
 * Once a the user obtains 10 points they are moved to the next level and their points reset.
 * If the user gets a game over they are brought back to the main screen and have to restart by pressing the start button again.
 
-**Optional Nice-to-have Stories**
-
-* [fill in your required user stories here]
-* ...
 
 ### 2. Screen Archetypes
 
@@ -50,27 +44,7 @@ Progress through increasingly difficult levels of bug smashing mayhem. "flys" wi
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
 
 **Flow Navigation** (Screen to Screen)
 
 * Start Screen (restart)
-
-## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
