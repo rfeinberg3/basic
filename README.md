@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# Crunch
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -11,16 +11,16 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Progress through increasingly difficult levels of bug smashing mayhem. "flys" will flash on the screen that you can press on to collect points. Enough points will progress you to the next level. Failure to press a fly within a certain amount of time, or clicking a "beetle", will result in a game over.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Games
+- **Mobile:** Used for mobile, but would work for a computer too.
+- **Story:**  An ineractive game for passing the time by clicking on bugs.
+- **Market:**  Anyone who is bored.
+- **Habit:**  User can play as long as they want.
+- **Scope:**  At first maybe the flys and beetles will just flash on the screen without moving.  As the app progresses maybe we could apply movement to the bugs.  And implement a way of detecting when the user misses a bug and taps on the white background accidentally, deducting points.
 
 ## Product Spec
 
@@ -28,8 +28,10 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User is forced to press a "start" button upon loading the app in order to start the game.
+* "Bugs" then flash on the screen that the user can press on to gain points.
+* Once a the user obtains 10 points they are moved to the next level and their points reset.
+* If the user gets a game over they are brought back to the main screen and have to restart by pressing the start button again.
 
 **Optional Nice-to-have Stories**
 
@@ -38,12 +40,11 @@ Original App Design Project - README Template
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Start Screen
+   * Comes up upon starting the app
+ 
+* Active Game Screen
+* Game Over Screen
 
 ### 3. Navigation
 
@@ -55,12 +56,7 @@ Original App Design Project - README Template
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Start Screen (restart)
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
